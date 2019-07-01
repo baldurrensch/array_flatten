@@ -1,0 +1,17 @@
+{
+    "name": "brensch/array-flatten",
+    "authors": [
+        {
+            "name": "Baldur Rensch",
+            "email": "brensch@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "\\"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
